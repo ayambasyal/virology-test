@@ -1,7 +1,7 @@
 # Bio_hack
  Biohackathon-2022
  Team Haem 
- - ([Manish Rijal](https://github.com/Rijal-Manish) 
+ - [Manish Rijal](https://github.com/Rijal-Manish) 
  - Ayam Basyal
 
  Prerequisites to run the code:
